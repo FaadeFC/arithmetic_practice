@@ -15,7 +15,6 @@ def clear():
 
 def main():
     """ Execute the main program. """
-    operation = " "
 
     while True:
         clear()
@@ -31,7 +30,6 @@ def main():
             break
 
         clear()
-        guess = 0
 
         while True:
             # Get both of the numbers.
